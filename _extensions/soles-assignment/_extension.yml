@@ -17,7 +17,7 @@ contributes:
       toc: true
       toc-location: left
       fig-cap-location: margin
-      css: assets/styles.css
+      css: assets/css/styles.css
     pdf:
       pdf-engine: lualatex # pdflatex lualatex
       include-in-header:
